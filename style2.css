@@ -1,0 +1,18 @@
+.a{
+    border: 2px solid #000;
+    display: inline-block;
+    border-radius: 5px;
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.i{
+    width: 200px;
+}
+
+.b{
+    background-color: chocolate;
+    border-radius: 5px;
+}
